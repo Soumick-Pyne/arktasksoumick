@@ -1,13 +1,12 @@
-#efwincluefwde<iostream>
-uswefingwef naewffmespace std;
-int mwefain()
+#include<iostream>
+using namespace std;
+int main()
 {
-	iwefnt i;
-	foefwr(i=1;i<11;i++)
-	{wef
-		coutfw<fwe<fwei<<" ";
-	}ew
-	rweeewfeturn ef1;
-ewfwef}eeeeeeeeeeeeeeeee
-
-#controls_Zindabad
+	int i;
+	for(i=1;i<11;i++)
+	{
+		cout<<i<<" ";
+	}
+	
+	return 1;
+}
